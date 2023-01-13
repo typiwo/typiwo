@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @typiwo
+- 👋 Hi, I’m @typiwo.
 - 🖥 I’m interested in learning new programming tools!
 - ✏ I’m currently a graduate CS student @ Georgia Tech!
 - 📫 How to reach me ... tpiwowarski3@gatech.edu.
