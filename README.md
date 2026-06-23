@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @typiwo.
 - 🖥 I’m interested in learning new programming tools!
-- ✏ I’m currently a graduate CS student @ Georgia Tech!
-- 📫 How to reach me ... tpiwowarski3@gatech.edu.
+- ✏ I’m currently an AI Engineer at WEX.
+- 📫 How to reach me ... ty.piwowarski@gmail.com.
 
 <!---
 typiwo/typiwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
